@@ -1,0 +1,12 @@
+streamlit
+toml
+pydantic
+pyarrow
+scipy
+matplotlib
+seaborn
+pandas==2.0.3
+polars
+gensim
+plotly
+faker

@@ -1,0 +1,11 @@
+patient_data = "data/dataset/patient_data.csv"
+
+[autism]
+name = "Autism"
+bin_boundaries = [0.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0]
+testset_results = "data/results/autism_testset_results.json"
+
+[adhd]
+name = "ADHD"
+bin_boundaries = [0.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.2]
+testset_results = "data/results/adhd_testset_results.json"
